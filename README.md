@@ -13,4 +13,5 @@ Versions affected are:
 
 [img]https://i.imgur.com/L39nuqH.gif[/img]
 
-![](userEnum.gif)
+![](https://i.imgur.com/L39nuqH.gif[/img)
+
