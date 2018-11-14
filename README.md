@@ -11,4 +11,6 @@ Versions affected are:
 
 •	version 4.2 and version 4.7
 
-<img src="userEnum" width="800">
+[img]https://i.imgur.com/L39nuqH.gif[/img]
+
+<img src="" width="800">
