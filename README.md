@@ -13,4 +13,4 @@ Versions affected are:
 
 [img]https://i.imgur.com/L39nuqH.gif[/img]
 
-<img src="" width="800">
+<img src="[img]https://i.imgur.com/L39nuqH.gif[/img]" width="800">
